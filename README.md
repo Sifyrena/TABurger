@@ -46,3 +46,7 @@ Separate with a piece of the dividers, then
  Top off with the second piece of bread, and we are done!
  
 Make sure you are careful if you eat two such sandwiches in quick succession, as the products of Antisymmetric Sandwiches are frequently made undergraduate physics assignment questions and people cry about it.
+
+# Why the fuck am I doing this?
+
+I walked past a McDonalds parking space recently and the sideways "M" looked like an epsilon. That's it. That's the whole joke.
