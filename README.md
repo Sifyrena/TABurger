@@ -22,19 +22,25 @@ Take your favourite bread slices (x2), cherry tomato ("C", for +1), pickles ("P"
 We lay a piece of bread inside the plate first, and proceeed to build the first layer.
 
  \-  C  \-
+ 
  P  \-  \-
+ 
  \-  \-  \-
 
 Separate with a piece of the dividers, then
 
  \-  \-  P
+ 
  \-  \-  \-
+ 
  C  \-  \-
  
  Add another piece of filler material, we are getting there,
  
  \-  \-  \-
+ 
  \-  \-  C
+ 
  \-  P  \-
  
  Top off with the second piece of bread, and we are done!
